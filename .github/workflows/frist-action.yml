@@ -6,10 +6,10 @@ jobs:
     steps:
       - name: print greeting
         run: echo "Hello World"
-      - name: print goodbye
-        run: |
-            echo "First goodbye"
-            echo "Second goodbye"
+#      - name: print goodbye
+#        run: |
+#            echo "First goodbye"
+#            echo "Second goodbye"
               
   
 
