@@ -1,4 +1,4 @@
-name: Frist Workflow 
+name: second Workflow 
 on: workflow_dispatch
 jobs:
   frist-job:
