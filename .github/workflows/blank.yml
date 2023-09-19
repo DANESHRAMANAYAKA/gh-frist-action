@@ -1,0 +1,13 @@
+name: second Workflow 
+on: workflow_dispatch
+jobs:
+  frist-job:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: print greeting
+        run: echo "Hello World"
+#      - name: print goodbye
+#        run: |
+#            echo "First goodbye"
+#            echo "Second goodbye"
+              
